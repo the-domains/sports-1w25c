@@ -1,0 +1,14 @@
+layout_spectrum: 0.06214910908602178
+typography_spectrum: 0.604455788852647
+color:
+  brandStrength: 0.18588783987797797
+  lightness: 0.6290006099734455
+  saturation: 0.8815242734272033
+  rhythmicContrast: 0.897556587588042
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: sports
