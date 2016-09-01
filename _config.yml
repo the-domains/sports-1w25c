@@ -12,5 +12,9 @@ color:
     - '#EEEFF7'
 layout_spectrum: 0.06214910908602178
 name: Major League Bettor
+navigation:
+  - name: Intro
+    id: 41da0199-917a-40c8-9232-fb4e9b080b99
+    type: content
 title: Major League Bettor
 description: Tail and make money!
