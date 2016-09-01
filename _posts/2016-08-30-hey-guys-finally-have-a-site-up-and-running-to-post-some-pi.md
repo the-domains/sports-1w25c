@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-30T14:54:26.482Z'
+datePublished: '2016-08-30T14:54:51.241Z'
 sourcePath: >-
   _posts/2016-08-30-hey-guys-finally-have-a-site-up-and-running-to-post-some-pi.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T14:54:26.134Z'
+dateModified: '2016-08-30T14:54:47.469Z'
 title: ''
 publisher: {}
 description: >-
