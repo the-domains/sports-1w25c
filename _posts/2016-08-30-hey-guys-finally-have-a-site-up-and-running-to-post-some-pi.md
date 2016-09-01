@@ -1,9 +1,12 @@
 ---
-datePublished: '2016-08-30T14:52:47.545Z'
-inFeed: true
+datePublished: '2016-08-30T14:54:26.482Z'
+sourcePath: >-
+  _posts/2016-08-30-hey-guys-finally-have-a-site-up-and-running-to-post-some-pi.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T14:52:20.919Z'
+dateModified: '2016-08-30T14:54:26.134Z'
 title: ''
 publisher: {}
 description: >-
@@ -14,8 +17,7 @@ description: >-
   but a 50u bankroll should be large enough for my style of betting. All bets
   will be placed on the ML. Thanks for reading and have fun tailing!
 starred: false
-sourcePath: >-
-  _posts/2016-08-30-hey-guys-finally-have-a-site-up-and-running-to-post-some-pi.md
+url: hey-guys-finally-have-a-site-up-and-running-to-post-some-pi/index.html
 _type: Blurb
 
 ---
