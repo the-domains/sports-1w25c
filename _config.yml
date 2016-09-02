@@ -20,7 +20,6 @@ navigation:
   - name: Running Totals
     id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a9ce3dd-06c9-422c-a999-26f0967bd961.jpg
+favicon: null
 title: Major League Bettor
 description: Tail and make money!
