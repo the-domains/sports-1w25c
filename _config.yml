@@ -11,8 +11,7 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.06214910908602178
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a211082-a090-42d5-abe1-c660b4f6f9ee.jpg
+logo: null
 name: Major League Bettor
 navigation:
   - name: Intro
@@ -21,5 +20,7 @@ navigation:
   - name: Running Totals
     id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a9ce3dd-06c9-422c-a999-26f0967bd961.jpg
 title: Major League Bettor
 description: Tail and make money!
