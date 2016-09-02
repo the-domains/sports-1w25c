@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-30T15:31:21.580Z'
+datePublished: '2016-08-30T20:09:19.868Z'
 sourcePath: _posts/2016-08-30-829-bets-unposted-830-is-first-day-of-site.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-30T15:31:21.271Z'
+dateModified: '2016-08-30T20:09:19.730Z'
 title: ''
 publisher: {}
 description: 8/29 Bets (Unposted - 8/30 is first day of site)
