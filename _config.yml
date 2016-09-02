@@ -11,6 +11,8 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 layout_spectrum: 0.06214910908602178
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a211082-a090-42d5-abe1-c660b4f6f9ee.jpg
 name: Major League Bettor
 navigation:
   - name: Intro
