@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T15:20:21.030Z'
+datePublished: '2016-08-30T15:20:56.146Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-30T15:19:24.191Z'
+dateModified: '2016-08-30T15:20:55.792Z'
 title: ''
 publisher: {}
 description: Running Totals
-starred: false
 sourcePath: _posts/2016-08-30-running-totals.md
+starred: false
 url: running-totals/index.html
 _type: Blurb
 
