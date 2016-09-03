@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-31T15:37:52.613Z'
+datePublished: '2016-08-31T15:38:39.172Z'
 sourcePath: _posts/2016-08-30-running-totals.md
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T15:37:52.058Z'
+dateModified: '2016-08-31T15:38:38.736Z'
 title: ''
 id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
 publisher: {}
