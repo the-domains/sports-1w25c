@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T04:48:20.467Z'
+datePublished: '2016-09-01T04:53:03.236Z'
 sourcePath: _posts/2016-08-30-running-totals.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T04:48:20.076Z'
+dateModified: '2016-09-01T04:53:02.662Z'
 title: ''
 id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
 publisher: {}
@@ -17,12 +17,12 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa46a3bb-f549-4f10-b5b7-b5ab6223532e.jpg)
 
-Running Totals
+**Running Totals**
 
-* 3-5 -4.15u
-* 1u: 3-3 +0.35u
-* 2u: 0-1 -2u
-* 2.5u: 0-1 -2.5u
-* 5u: 0-0 +0u
-* 7.5u: 0-0 +0u
-* 10u: 0-0 +0u
+* 3-5 **-4.15u**
+* 1u: 3-3 **+0.35u**
+* 2u: 0-1 **-2u**
+* 2.5u: 0-1 **-2.5u**
+* 5u: 0-0 **+0u**
+* 7.5u: 0-0 **+0u**
+* 10u: 0-0 **+0u**
