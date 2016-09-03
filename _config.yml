@@ -11,6 +11,8 @@ color:
     - '#375D81'
     - '#183152'
 layout_spectrum: 0.18012906680814922
+analytics:
+  google: UA-83471006-1
 logo: null
 name: Major League Bettor
 navigation:
