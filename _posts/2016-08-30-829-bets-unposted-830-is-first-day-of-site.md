@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T04:56:52.228Z'
+datePublished: '2016-09-01T04:58:24.268Z'
+sourcePath: _posts/2016-08-30-829-bets-unposted-830-is-first-day-of-site.md
 author: []
 via: {}
-dateModified: '2016-09-01T04:56:51.652Z'
+dateModified: '2016-09-01T04:58:23.470Z'
 title: ''
 id: 8d5bd9bc-cc17-47d2-8e82-ed2a0e349d58
 publisher: {}
 description: '8/29 Picks (Unposted - 8/30 is first day of site):'
 starred: false
-sourcePath: _posts/2016-08-30-829-bets-unposted-830-is-first-day-of-site.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -25,7 +25,7 @@ _type: MediaObject
 * Rangers -151 (_1u_)
 * Rockies +121 (_5u_)
 
-Rockies were the first 5u play in well over a week. My model gives an 11.67% edge over the posted odds of 45.25% (in order to break even on +121, you need to win 45.25% of the time, my model says we win this bet 56.92%). That is a huge edge.
+Rockies were the first 5u play in well over a week. My model gives an 11.67% edge over the posted odds of 45.25% (in order to break even on +121, you need to win 45.25% of the time, my model says we win this bet 56.92%). Huge edge.
 
 **8/29 Results:**
 
