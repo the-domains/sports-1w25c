@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Major League Bettor]]></title>
         <description><![CDATA[Major League Bettor]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mlb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 04:49:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 04:52:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mlb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07201755-fc8a-4129-ad57-3d8c79319f96.jpg">]]></description>
-            <link>undefined831-picks/index.html</link>
+            <link>https://thegrid.ai/mlb/831-picks/index.html</link>
             <guid isPermaLink="false">9bf76ec2-5af3-4ff4-9266-f54b771b3f8b</guid>
-            <pubDate>Thu, 01 Sep 2016 04:49:05 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 04:52:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
