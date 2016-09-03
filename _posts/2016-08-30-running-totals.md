@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-31T18:08:51.252Z'
+datePublished: '2016-08-31T21:53:36.731Z'
 sourcePath: _posts/2016-08-30-running-totals.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:08:50.902Z'
+dateModified: '2016-08-31T21:53:36.250Z'
 title: ''
 id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
 publisher: {}
@@ -19,8 +19,8 @@ _type: Blurb
 
 Running Totals
 
-* 1-3 -2.65u
-* 1u: 1-2 -0.65u
+* 2-3 -1.65u
+* 1u: 2-2 +0.35u
 * 2u: 0-1 -2u
 * 2.5u: 0-0 +0u
 * 5u: 0-0 +0u
