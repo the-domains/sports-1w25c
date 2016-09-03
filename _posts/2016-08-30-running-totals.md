@@ -1,26 +1,27 @@
 ---
-datePublished: '2016-08-30T15:20:56.146Z'
-inFeed: false
-hasPage: true
+datePublished: '2016-08-31T14:39:32.456Z'
 author: []
 via: {}
-dateModified: '2016-08-30T15:20:55.792Z'
+dateModified: '2016-08-31T14:39:32.087Z'
 title: ''
+id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
 publisher: {}
 description: Running Totals
-sourcePath: _posts/2016-08-30-running-totals.md
 starred: false
-url: running-totals/index.html
-_type: Blurb
+sourcePath: _posts/2016-08-30-running-totals.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa46a3bb-f549-4f10-b5b7-b5ab6223532e.jpg)
 
 Running Totals
 
-* 0-0 +0u
-* 1u: 0-0 +0u
-* 2u: 0-0 +0u
+* 1-3 -2.65u
+* 1u: 1-2 -0.65u
+* 2u: 0-1 -2u
 * 2.5u: 0-0 +0u
 * 5u: 0-0 +0u
 * 7.5u: 0-0 +0u
