@@ -22,6 +22,9 @@ navigation:
   - name: Running Totals
     id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
     type: content
+  - name: Previous Months
+    id: 9bf76ec2-5af3-4ff4-9266-f54b771b3f8b
+    type: content
 favicon: null
 title: Major League Bettor
 description: 3-5 (-4.15u)
