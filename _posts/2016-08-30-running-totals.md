@@ -1,18 +1,17 @@
 ---
-datePublished: '2016-08-31T14:39:32.456Z'
+datePublished: '2016-08-31T15:37:52.613Z'
+sourcePath: _posts/2016-08-30-running-totals.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T14:39:32.087Z'
+dateModified: '2016-08-31T15:37:52.058Z'
 title: ''
 id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
 publisher: {}
 description: Running Totals
 starred: false
-sourcePath: _posts/2016-08-30-running-totals.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: running-totals/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa46a3bb-f549-4f10-b5b7-b5ab6223532e.jpg)
