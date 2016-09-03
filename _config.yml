@@ -1,16 +1,16 @@
-typography_spectrum: 0.604455788852647
+layout_spectrum: 0.18012906680814922
+typography_spectrum: 0.49433015077374876
 color:
-  brandStrength: 0.18588783987797797
-  lightness: 0.6290006099734455
-  saturation: 0.8815242734272033
-  rhythmicContrast: 0.897556587588042
+  brandStrength: 0.7064155095722526
+  lightness: 0.6296706018038094
+  saturation: 0.12982496130280197
+  rhythmicContrast: 0.8598808201495558
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
-layout_spectrum: 0.06214910908602178
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 logo: null
 name: Major League Bettor
 navigation:
