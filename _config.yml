@@ -14,11 +14,11 @@ layout_spectrum: 0.18012906680814922
 logo: null
 name: Major League Bettor
 navigation:
-  - name: Running Totals
-    id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
-    type: content
   - name: Intro
     id: 41da0199-917a-40c8-9232-fb4e9b080b99
+    type: content
+  - name: Running Totals
+    id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
     type: content
 favicon: null
 title: Major League Bettor
