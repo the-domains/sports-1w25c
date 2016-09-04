@@ -4,7 +4,7 @@
         <description><![CDATA[Major League Bettor]]></description>
         <link>https://thegrid.ai/mlb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 04:56:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 14:55:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mlb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mlb/831-picks/index.html</link>
             <guid isPermaLink="false">9bf76ec2-5af3-4ff4-9266-f54b771b3f8b</guid>
             <pubDate>Thu, 01 Sep 2016 04:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5721ebf-dc13-4099-8544-fa97ef10b01b.png">]]></description>
+            <link>https://thegrid.ai/mlb/the-model/index.html</link>
+            <guid isPermaLink="false">5a76c552-5ae7-4f5c-93b6-564d6afbd333</guid>
+            <pubDate>Thu, 01 Sep 2016 14:55:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
