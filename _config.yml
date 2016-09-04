@@ -22,6 +22,9 @@ navigation:
   - name: Running Totals
     id: 0524c3ef-e6d6-4167-b0cf-c10c884cf4d3
     type: content
+  - name: The Model
+    id: 5a76c552-5ae7-4f5c-93b6-564d6afbd333
+    type: content
 favicon: null
 title: Major League Bettor
 description: 3-5 (-4.15u)
