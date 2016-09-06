@@ -1,8 +1,20 @@
-typography_spectrum: 0.38516351534053683
+title: Major League Bettor
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 6-5 (+0.77u)
 color:
+  saturation: 0.129824961302802
   brandStrength: 0.7064155095722526
-  lightness: 0.6296706018038094
-  saturation: 0.12982496130280197
   rhythmicContrast: 0.8598808201495558
   brandColors:
     - '#E1E6FA'
@@ -10,11 +22,7 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-layout_spectrum: 0.18012906680814922
-analytics:
-  google: UA-83471006-1
-logo: null
-name: Major League Bettor
+  lightness: 0.6296706018038094
 navigation:
   - name: Intro
     id: 41da0199-917a-40c8-9232-fb4e9b080b99
@@ -25,6 +33,10 @@ navigation:
   - name: The Model
     id: 5a76c552-5ae7-4f5c-93b6-564d6afbd333
     type: content
+analytics:
+  google: UA-83471006-1
 favicon: null
-title: Major League Bettor
-description: 6-5 (+0.77u)
+name: Major League Bettor
+logo: null
+typography_spectrum: 0.3851635153405368
+layout_spectrum: 0.2293233
